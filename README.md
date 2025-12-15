@@ -1,6 +1,6 @@
 # 📜 Certificates & Achievements
 
-Este repositório contém uma coleção dos meus certificados e conquistas acadêmicas e profissionais.
+This repository contains a collection of my academic and professional certificates and achievements.
 
 ---
 
@@ -16,64 +16,64 @@ Este repositório contém uma coleção dos meus certificados e conquistas acad�
 
 </div>
 
-#### Sobre o Curso
-O CS50 é o curso introdutório de ciência da computação de Harvard University, ministrado pelo professor David J. Malan. Este curso rigoroso abrange:
+#### About the Course
+CS50 is Harvard University's introductory computer science course, taught by Professor David J. Malan. This rigorous course covers:
 
-- **Fundamentos de Ciência da Computação**: Algoritmos, estruturas de dados e pensamento computacional
-- **Linguagens de Programação**: C, Python, SQL, JavaScript, HTML, CSS
-- **Desenvolvimento Web**: Flask, design de aplicações web
-- **Conceitos Avançados**: Memória, segurança, desenvolvimento de software
+- **Computer Science Fundamentals**: Algorithms, data structures, and computational thinking
+- **Programming Languages**: C, Python, SQL, JavaScript, HTML, CSS
+- **Web Development**: Flask, web application design
+- **Advanced Concepts**: Memory, security, software development
 
-O curso é reconhecido mundialmente pela sua excelência e profundidade, sendo um dos cursos online mais populares e respeitados na área de tecnologia.
+The course is globally recognized for its excellence and depth, being one of the most popular and respected online courses in technology.
 
-#### Competências Desenvolvidas
-- ✅ Pensamento algorítmico e resolução de problemas
-- ✅ Programação em múltiplas linguagens
-- ✅ Desenvolvimento full-stack
-- ✅ Estruturas de dados e algoritmos
-- ✅ Práticas de engenharia de software
+#### Skills Developed
+- ✅ Algorithmic thinking and problem solving
+- ✅ Multi-language programming
+- ✅ Full-stack development
+- ✅ Data structures and algorithms
+- ✅ Software engineering practices
 
-📁 **Certificado**: [Ver PDF](harvard/Harvard-CS50-Certificate.pdf)
-
----
-
-## 📚 Todos os Certificados
-
-### 🎓 Cursos Universitários
-| Instituição | Curso | Data | Certificado |
-|-------------|-------|------|-------------|
-| Harvard University | CS50's Introduction to Computer Science | 2024 | [📄 Ver](harvard/Harvard-CS50-Certificate.pdf) |
-
-### 💻 Cursos Técnicos
-| Plataforma | Curso | Data | Certificado |
-|------------|-------|------|-------------|
-| *Em breve* | - | - | - |
-
-### 🏆 Certificações Profissionais
-| Organização | Certificação | Data | Certificado |
-|-------------|--------------|------|-------------|
-| *Em breve* | - | - | - |
+📁 **Certificate**: [View PDF](harvard/Harvard-CS50-Certificate.pdf)
 
 ---
 
-## 📊 Estatísticas
+## 📚 All Certificates
 
-- **Total de Certificados**: 1
-- **Instituições**: Harvard University
-- **Áreas**: Ciência da Computação, Programação
+### 🎓 University Courses
+| Institution | Course | Date | Certificate |
+|-------------|--------|------|-------------|
+| Harvard University | CS50's Introduction to Computer Science | 2024 | [📄 View](harvard/Harvard-CS50-Certificate.pdf) |
+
+### 💻 Technical Courses
+| Platform | Course | Date | Certificate |
+|----------|--------|------|-------------|
+| *Coming soon* | - | - | - |
+
+### 🏆 Professional Certifications
+| Organization | Certification | Date | Certificate |
+|--------------|---------------|------|-------------|
+| *Coming soon* | - | - | - |
 
 ---
 
-## 🔄 Última Atualização
+## 📊 Statistics
 
-**Dezembro de 2025**
+- **Total Certificates**: 1
+- **Institutions**: Harvard University
+- **Areas**: Computer Science, Programming
+
+---
+
+## 🔄 Last Updated
+
+**December 2025**
 
 ---
 
 <div align="center">
 
-### 🌟 Aprendizado Contínuo
+### 🌟 Continuous Learning
 
-*"A educação é a arma mais poderosa que você pode usar para mudar o mundo."* - Nelson Mandela
+*"Education is the most powerful weapon which you can use to change the world."* - Nelson Mandela
 
 </div>
